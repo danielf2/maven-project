@@ -14,7 +14,7 @@
 
 		<mule.version>3.8.3</mule.version>
 		<mule.tools.version>1.3</mule.tools.version>
-		<mule.maven.plugin.version>2.2.2</mule.maven.plugin.version>
+		<mule.maven.plugin.version>2.1.2</mule.maven.plugin.version>
 		<derby.version>10.13.1.1</derby.version>
 		<activemq.version>5.14.2</activemq.version>
 	</properties>
