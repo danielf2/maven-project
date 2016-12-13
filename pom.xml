@@ -75,7 +75,7 @@
                     <muleVersion>${mule.version}</muleVersion>
                     <username>daniel-fan</username>
                     <password>Lunatic10041206</password>
-                    <environment>TEST</environment>
+                    <environment>Sandbox1</environment>
                     <applicationName>maven-project</applicationName>
                     <!-- <workerType>${cloudhub.worker.type}</workerType> -->
                 </configuration>
