@@ -77,7 +77,8 @@
                     <password>Lunatic10041206</password>
                     <environment>Sandbox1</environment>
                     <applicationName>maven-project</applicationName>
-                    <!-- <workerType>${cloudhub.worker.type}</workerType> -->
+                    <redeploy>true</redeploy>
+                    <workerType>Micro</workerType>
                 </configuration>
                 <executions>
                     <execution>
