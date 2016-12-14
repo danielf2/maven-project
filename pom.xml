@@ -73,8 +73,6 @@
                 <configuration>
                     <deploymentType>cloudhub</deploymentType>
                     <muleVersion>${mule.version}</muleVersion>
-                    <username>daniel-fan</username>
-                    <password>Lunatic10041206</password>
                     <environment>Production</environment>
                     <redeploy>true</redeploy>
                     <workerType>Micro</workerType>
