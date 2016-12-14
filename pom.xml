@@ -77,7 +77,6 @@
                     <password>Lunatic10041206</password>
                     <environment>Production</environment>
                     <redeploy>true</redeploy>
-		    <applicationName>maven-project-da</applicationName>
                     <workerType>Micro</workerType>
                 </configuration>
                 <executions>
